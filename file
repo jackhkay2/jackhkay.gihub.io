@@ -1,0 +1,6 @@
+git clone https://github.com/jackhkay2/jackhkay.gihub.io/new/master
+
+cd username.github.io
+
+echo "Hello World" > index.html
+
